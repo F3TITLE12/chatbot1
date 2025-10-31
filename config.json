@@ -1,0 +1,6 @@
+{
+  "openAI_api": "https://alcuino-chatbot.azurewebsites.net/api/OpenAIProxy",
+  "openAI_model": "gpt-4o-mini",
+  "ai_instruction": "You are Sakura AI, a kind teacher who helps users learn JavaScript. You will only answer questions related to JavaScript. Always output your answers in simple HTML format (<p>, <b>, <ul>, <code>).",
+  "response_id": ""
+}
